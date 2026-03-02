@@ -1,3 +1,4 @@
+pub mod ranges;
 pub mod equity;
 pub mod ev;
 pub mod game;
